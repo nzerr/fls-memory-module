@@ -1,26 +1,51 @@
 .App {
   text-align: center;
+  background-image: url('quantum01.jpg');
+  /* min-height: 100vh; */
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
+.App-content {
+  text-align: center;
+  align-items: center;
+  justify-content: center; 
+  display: flex;
+  flex-direction: row;
+  color: white;
+
+}
+
+
 .App-link {
   color: #61dafb;
+}
+
+
+
+h2 {
+  font-size: 1.25em;
+  font-family: 'Roboto';
+}
+
+h3 {
+  font-size: 2.25em;
+  /* font-family: 'Roboto'; */
 }
 
 @keyframes App-logo-spin {
@@ -31,3 +56,4 @@
     transform: rotate(360deg);
   }
 }
+
