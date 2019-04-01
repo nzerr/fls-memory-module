@@ -8,15 +8,11 @@ self.__precacheManifest = [
     "url": "/fls-memory-module/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "ba3950f923731a21790f293fefab13f2",
-    "url": "/fls-memory-module/static/media/atom.ba3950f9.jpg"
-  },
-  {
     "revision": "0c7595a4b80ff8b984ab",
     "url": "/fls-memory-module/static/js/runtime~main.93ab4745.js"
   },
   {
-    "revision": "0e77f7a8e3b0eb9c94f1",
+    "revision": "2ad0c2187baaa0cda678",
     "url": "/fls-memory-module/static/js/main.d632fe6f.chunk.js"
   },
   {
@@ -24,11 +20,11 @@ self.__precacheManifest = [
     "url": "/fls-memory-module/static/js/2.dfb0cf60.chunk.js"
   },
   {
-    "revision": "0e77f7a8e3b0eb9c94f1",
-    "url": "/fls-memory-module/static/css/main.c7d6d2f4.chunk.css"
+    "revision": "2ad0c2187baaa0cda678",
+    "url": "/fls-memory-module/static/css/main.e7beec31.chunk.css"
   },
   {
-    "revision": "3d0c8b0ae2e3a5250e4f6322ed7ccc48",
+    "revision": "cb569cb5641b22223eb236a3021e5a9d",
     "url": "/fls-memory-module/index.html"
   }
 ];
