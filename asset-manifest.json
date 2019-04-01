@@ -1,5 +1,5 @@
 {
-  "main.css": "/fls-memory-module/static/css/main.275b2ee6.chunk.css",
+  "main.css": "/fls-memory-module/static/css/main.61770bfe.chunk.css",
   "main.js": "/fls-memory-module/static/js/main.1bba664f.chunk.js",
   "main.js.map": "/fls-memory-module/static/js/main.1bba664f.chunk.js.map",
   "runtime~main.js": "/fls-memory-module/static/js/runtime~main.93ab4745.js",
@@ -7,9 +7,9 @@
   "static/js/2.dfb0cf60.chunk.js": "/fls-memory-module/static/js/2.dfb0cf60.chunk.js",
   "static/js/2.dfb0cf60.chunk.js.map": "/fls-memory-module/static/js/2.dfb0cf60.chunk.js.map",
   "index.html": "/fls-memory-module/index.html",
-  "precache-manifest.c08ee0563fcd4baad0fdc9d7ff0080ab.js": "/fls-memory-module/precache-manifest.c08ee0563fcd4baad0fdc9d7ff0080ab.js",
+  "precache-manifest.60b45b992ab97334bc24e6f60dfc16ef.js": "/fls-memory-module/precache-manifest.60b45b992ab97334bc24e6f60dfc16ef.js",
   "service-worker.js": "/fls-memory-module/service-worker.js",
-  "static/css/main.275b2ee6.chunk.css.map": "/fls-memory-module/static/css/main.275b2ee6.chunk.css.map",
+  "static/css/main.61770bfe.chunk.css.map": "/fls-memory-module/static/css/main.61770bfe.chunk.css.map",
   "static/media/logo.svg": "/fls-memory-module/static/media/logo.5d5d9eef.svg",
   "static/media/App.css": "/fls-memory-module/static/media/quantum01.1ee256e4.jpg"
 }
