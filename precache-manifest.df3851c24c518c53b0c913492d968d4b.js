@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/fls-memory-module/static/js/runtime~main.93ab4745.js"
   },
   {
-    "revision": "191ed43ff7dcf44075e6",
+    "revision": "60c6000ce305b2f7ed6a",
     "url": "/fls-memory-module/static/js/main.7ca0fb28.chunk.js"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/fls-memory-module/static/js/2.dfb0cf60.chunk.js"
   },
   {
-    "revision": "191ed43ff7dcf44075e6",
-    "url": "/fls-memory-module/static/css/main.316578d2.chunk.css"
+    "revision": "60c6000ce305b2f7ed6a",
+    "url": "/fls-memory-module/static/css/main.2a768537.chunk.css"
   },
   {
-    "revision": "5b89d6cbab673986a1b4b66bc6a0cb02",
+    "revision": "5fea45b85b6f2f0e8a33aaeee0666774",
     "url": "/fls-memory-module/index.html"
   }
 ];
